@@ -1,1 +1,1 @@
-# sisterslab-python-akademi-odev
+# sisterslab-python-akademi-odev gi
